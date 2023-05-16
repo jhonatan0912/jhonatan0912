@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Yaranga</h1>
-<h3 align="center">A passionate developer student from Perú</h3>
+<h3 align="center">Peruvian developer</h3>
 
 - 💬 Ask me about **JavasScript**
 
