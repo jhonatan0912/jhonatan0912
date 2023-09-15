@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Yaranga</h1>
-<h3 align="center">Peruvian developer</h3>
 
 - 💬 Ask me about **JavasScript**
 
