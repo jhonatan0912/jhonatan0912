@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jhonatan Yaranga</h1>
 
-- 💬 Ask me about **JavasScript**
+- 💬 Ask me about **Angular**
 
 - 📫 How to reach me **jhoonatan_0912@hotmail.com**
 
