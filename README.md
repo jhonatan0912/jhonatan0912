@@ -40,7 +40,7 @@
 ### 🖥️ Backend & APIs
 <p align="left">
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -82,12 +82,10 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonatan0912&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
 </p>
-
 ---
 
 ## 📩 **Let's Connect!**
-- **Email:** [jhoonatan_0912@hotmail.com](mailto:jhoonatan_0912@hotmail.com)  
-- **LinkedIn:** [linkedin.com/in/jhonatanyaranga](https://www.linkedin.com/in/jhonatanyaranga)  
-- **Portfolio:** [jhonatanyportfolio.com](https://jhonatanyportfolio.com)  
-
+- **Email:** [jhoonatan_0912@hotmail.com](mailto:jhoonatan_0912@hotmail.com)
+- **LinkedIn:** [linkedin.com/in/jhonatanyaranga](https://www.linkedin.com/in/jhonatan-yaranga-37a3431b2/)  
+- **Portfolio:** [jhonatanyportfolio.com](https://portfolio-jhonatan0912s-projects.vercel.app/)
 ---
